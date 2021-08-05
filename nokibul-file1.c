@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 char* nokibul(){
-    return "nokibul";
+    int a = 10;
+    return "nokibul-alam";
 }
 
 int main()
